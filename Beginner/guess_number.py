@@ -15,7 +15,7 @@ def guess(x):
 
 guess(10)
 
-
+print("now it is computers turn!!")
 def computer_guess(x):
     low = 1
     high = x
